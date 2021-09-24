@@ -1,0 +1,13 @@
+<!DOCTYPE.html>
+<html>
+<body>
+<p id="nstatement"></p>
+
+
+
+<script>
+document.getElementById("nstatement").printThingsHTML=5*5;
+</script>
+</body>
+</html>
+console.log("name: " + name)
